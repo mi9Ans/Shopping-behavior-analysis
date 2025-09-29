@@ -27,7 +27,7 @@ The analysis was done using **Python (Pandas, Matplotlib, Seaborn)** and present
 ## 📷 Dashboard Preview
 Here’s a snapshot of the dashboard created with Matplotlib:
 
-![Dashboard](dashboard.png)
+![Dashboard](github_project.png)
 
 ---
 
